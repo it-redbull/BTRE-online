@@ -1,0 +1,46 @@
+## TODO
+
+- [ ] TEMPLATE FIND?
+
+
+USERS
+- [ ] SECURE USER REGISTER
+- [ ] SECURE USER LOGIN
+- [ ] SECURE USER PASSFORGOT
+- [ ] Front end login, register & forgot password
+
+PROFILE
+- [ ] Profiel Model 
+- [ ] basic_info Model 
+- [ ] background Model 
+- [ ] lifestyle Model 
+- [ ] family Model 
+- [ ] photos Model 
+- [ ] preferance Model 
+- [ ] Front end show profiles -> grid system
+
+SUBSCRIPTION
+- [ ] Subscription Model
+- [ ] Subscriptionplan Model
+- [ ] Payment Model
+- [ ] Backend Paypal / Ideal/ Molly/ stripe
+
+MATCHING
+- [ ] Match ?
+- [ ] like ?
+- [ ] match score ?
+- [ ] MESSAGES ? -> CHAT?
+- [ ] No Frontend???????
+
+REPORT
+- [ ] User Report?
+- [ ] software Report?
+- [ ] Frontend Form, when logged in.
+
+ADMIN
+- [ ] Custom ADMIN PANEL???
+
+
+# OTHERS
+higher_photo_resolution():
+    Photo van user resolutie verhogen. Niet mooier maken!

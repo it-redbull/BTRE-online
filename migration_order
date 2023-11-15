@@ -1,0 +1,8 @@
+makemigration accounts
+migrate accounts
+
+
+
+
+makemigrations
+migrate
