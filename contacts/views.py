@@ -6,8 +6,8 @@ from .models import Contact
 
 def contact(request):
     if request.method == 'POST':
-        listing_id = request.POST['listing_id']
         listing = request.POST['listing']
+        listing_id = request.POST['listing_id']
         name = request.POST['name']
         email = request.POST['email']
         phone = request.POST['phone']
