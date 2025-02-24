@@ -6,6 +6,8 @@ from django.contrib.auth.models import User
 
 from contacts.models import Contact
 
+
+
 def register(request):
   if request.method == 'POST':
     #get form values
@@ -76,4 +78,6 @@ def dashboard(request):
   context = {
     'contacts': user_contacts
   }
+
+  
   return render(request, 'accounts/dashboard.html', context)
